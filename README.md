@@ -1,4 +1,4 @@
-# kickstart.nvim
+# nvim.d
 
 Forked from [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim). Kickstart.vim is a small, single file, modular starting point for new users to neovim with a rich documentation to get you from spending long hours configuring neovim to working on projects in minutes. P.S: it is not a neovim distribution.
 
